@@ -8,19 +8,5 @@
  * ------------------------------------------------------------
  */
 {
-  "current": {
-    "sections": {
-      "header": {
-        "type": "header",
-        "settings": {
-          "mobile_menu_title": "Menu",
-          "menu": "back-up-menu"
-        }
-      }
-    },
-    "content_for_index": []
-  },
-  "presets": {
-    "Default": {}
-  }
+  "markets": {}
 }
