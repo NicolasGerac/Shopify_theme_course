@@ -1,8 +1,8 @@
 {
   "sections": {
-    "main": {
+    "template": {
       "type": "main-article"
     }
   },
-  "order": ["main"]
+  "order": ["template"]
 }
