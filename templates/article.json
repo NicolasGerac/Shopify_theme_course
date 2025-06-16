@@ -12,7 +12,7 @@
     "main": {
       "type": "main-article",
       "settings": {
-        "enable_author": true,
+        "enable_author": false,
         "enable_published_date": false
       }
     }
