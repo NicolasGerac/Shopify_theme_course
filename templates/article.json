@@ -13,7 +13,7 @@
       "type": "main-article",
       "settings": {
         "enable_author": true,
-        "enable_published_date": true
+        "enable_published_date": false
       }
     }
   },
