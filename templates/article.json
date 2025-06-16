@@ -1,8 +1,12 @@
 {
   "sections": {
-    "template": {
-      "type": "main-article"
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "enable_author": false,
+        "enable_published_date": false
+      }
     }
   },
-  "order": ["template"]
+  "order": ["main"]
 }
