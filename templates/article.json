@@ -12,8 +12,8 @@
     "main": {
       "type": "main-article",
       "settings": {
-        "enable_author": false,
-        "enable_published_date": false
+        "enable_author": true,
+        "enable_published_date": true
       }
     }
   },
